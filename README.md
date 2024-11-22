@@ -12,13 +12,17 @@ An elegant wallpaper app that enhances your Android device with stunning visuals
 ---
 
 ## Screenshots 📸  
-![Homescreen](./screenshot1.jpeg)
+<p align="center">
+  <img src="./screenshot1.jpeg" alt="Homescreen" width="300"/>
+  <br>
+  *Home Screen*
+</p>
 
-*Home Screen*
-
-![FilterScreen](./screenshot2.jpeg)
-
-*Filters Screen*
+<p align="center">
+  <img src="./screenshot2.jpeg" alt="FilterScreen" width="300"/>
+  <br>
+  *Filters Screen*
+</p>
 
 ---
 
