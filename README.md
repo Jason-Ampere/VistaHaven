@@ -1,50 +1,63 @@
-# Welcome to your Expo app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# VistaHaven 🌅  
+An elegant wallpaper app that enhances your Android device with stunning visuals and custom color filters.  
 
-## Get started
+---
 
-1. Install dependencies
+## Features ✨  
+- **Beautiful Wallpapers**: Explore a curated collection of high-quality wallpapers.  
+- **Color Filters**: Apply custom filters to personalize your wallpapers.  
+- **Simple UI**: User-friendly and minimal design for seamless navigation.  
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## Screenshots 📸  
+_(Add screenshots or mockups here)_  
 
-   ```bash
-    npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## Installation 🛠️  
+1. Clone the repository:  
+   ```bash  
+   git clone https://github.com/Jason-Ampere/VistaHaven.git  
+   ```  
+2. Open the project in Android Studio.  
+3. Sync Gradle and build the project.  
+4. Install the app on your device or emulator.  
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Tech Stack 💻  
+- **Programming Language**: Kotlin/Java  
+- **Framework**: Android SDK  
+- **Image Processing**: Glide or similar libraries for color filtering  
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## Upcoming Features 🛠️  
+- [ ] Add support for dynamic wallpapers.  
+- [ ] Include crop and resize functionality.  
+- [ ] Expand wallpaper categories.  
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Contributing 🤝  
+Contributions are welcome!  
+1. Fork the repository.  
+2. Create a new branch:  
+   ```bash  
+   git checkout -b feature-name  
+   ```  
+3. Make your changes and commit them.  
+4. Push to your fork and submit a pull request.  
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## License 📄  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Contact 📧  
+If you have any questions or feedback, feel free to reach out at:  
+- GitHub: [Jason-Ampere](https://github.com/Jason-Ampere)  
