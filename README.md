@@ -40,10 +40,9 @@ An elegant wallpaper app that enhances your Android device with stunning visuals
 ---
 
 ## Tech Stack 💻  
-- **Programming Language**: Kotlin/Java  
-- **Framework**: Android SDK  
-- **Image Processing**: Glide or similar libraries for color filtering  
-
+- **Programming Language**: Javascript
+- **Framework**: Android SDK, React Native, Expo
+  
 ---
 
 ## Upcoming Features 🛠️  
@@ -61,12 +60,7 @@ Contributions are welcome!
    git checkout -b feature-name  
    ```  
 3. Make your changes and commit them.  
-4. Push to your fork and submit a pull request.  
-
----
-
-## License 📄  
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+4. Push to your fork and submit a pull request.    
 
 ---
 
