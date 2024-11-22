@@ -15,13 +15,15 @@ An elegant wallpaper app that enhances your Android device with stunning visuals
 <p align="center">
   <img src="./screenshot1.jpeg" alt="Homescreen" width="300"/>
   <br>
-  *Home Screen*
+  Home Screen
+  <br>
 </p>
 
 <p align="center">
   <img src="./screenshot2.jpeg" alt="FilterScreen" width="300"/>
   <br>
-  *Filters Screen*
+  Filters Screen
+  <br>
 </p>
 
 ---
